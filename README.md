@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Typescript and Tailwind are setup with the latest versions as of March 15th 2021. Check the dev dependencies and make sure they are all up to date before starting your project:
+
+```json
+"devDependencies": {
+    "@types/node": "^14.14.34",
+    "@types/react": "^17.0.3",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.3",
+    "typescript": "^4.2.3"
+  }
+```
+
 ## Getting Started
 
 First, run the development server:
